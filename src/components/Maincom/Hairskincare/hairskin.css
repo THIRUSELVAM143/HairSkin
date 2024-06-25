@@ -1,0 +1,13 @@
+
+
+#btn3{
+    position: absolute;
+    background-color:white;
+    color: hsla(0, 0%, 7%, 1);
+   
+    top: 10px;
+    left: 180px;
+}
+#delivery{
+    font-family: jost;
+}

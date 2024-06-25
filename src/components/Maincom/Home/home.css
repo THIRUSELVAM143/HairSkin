@@ -1,0 +1,135 @@
+
+
+#paragraphStyle{
+    font-weight: bold;
+
+    font-size: '1px';
+    font-family:'jost' ;
+
+}
+#banner p{
+    color:  hsla(348, 86%, 52%, 1);
+}
+#banner{
+    background-image: url('../../images/banner-4\ 1\ \(1\).png');
+    background-size: cover;
+   
+    
+}
+#bannercon{
+    padding-top: 80px;
+    font-family: jost;
+    padding-bottom: 150px;
+}
+#bannercon h3{
+    font-size: 50px;
+    font-weight: bold;
+}
+#smallbg{
+    font-family: jost;
+}
+#smallbg h3{
+    font-weight: bold;
+}
+
+#smallbg1{
+    background-image: url('../../images/1\ 42.png');
+    background-size: cover;
+    background-position: center center;
+  
+}
+#smallbg2{
+    background-image: url('../../images/b-3\ 6.png');
+    background-size: cover;
+    background-position: center center;
+  
+}
+#smallbg3{
+    background-image: url('../../images/b-3\ 5\ \(1\).png');
+    background-size: cover;
+    background-position: center center;
+  
+}
+.pongal{
+    font-family: jost;
+    font-weight: bold;
+}
+#num{
+    font-size: 50px;
+    color: rgb(146, 90, 21);
+}
+#numbg{
+    background-color:   hsla(26, 30%, 91%, 1);
+}
+#btn1{
+    position: absolute;
+    background-color:#d63384;
+    top: 10px;
+    left: 10px;
+    
+}
+#btn2{
+    position: absolute;
+    background-color:white;
+    top: 10px;
+    left: 150px;
+}
+#doc{
+    background-color: hsla(220, 16%, 96%, 1);
+}
+#docimg{
+    height: 170px;
+    width: 20%;
+}
+#size{
+    font-size: 1px;
+    word-spacing: 1px;
+    width: 100%;
+}
+#meha{
+    color: 
+    hsla(348, 86%, 52%, 1);
+}
+
+
+/* Caurosal.css */
+#imgs{
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  #imgs:hover {
+    transform: scale(1.1); /* Adjust the scale factor as needed */
+  }
+  #imgs img {
+    width: 100%;
+   height: 308px;
+  }
+
+  #footer{
+    background-color: hsla(0, 0%, 15%, 1);
+  }
+  #footer p{
+    color:  hsla(0, 0%, 65%, 1);
+  }
+  .insta{
+    color: #6f42c1 ;
+  }
+  #footer li {
+    list-style-type: none;
+    color: hsla(0, 0%, 65%, 1);
+    padding-top: 10px;
+  }
+  /* .liked {
+    background-color: red;
+    /* Add any other styles you want for liked items */
+  
+  
+  /* Add this if you want a default background color for non-liked items */
+ 
+ 
+  
+  
+
+
+  
+  

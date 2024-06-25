@@ -1,0 +1,32 @@
+.btn1 {
+    margin-left: 0px;
+}
+
+label {
+    font-family: jost;
+}
+
+.btn.active {
+    border: 2px solid pink;
+}
+
+.plc::placeholder {
+    font-family: jost;
+    margin-left: 20px;
+}
+
+input {
+    font-family: jost;
+}
+
+.das {
+    font-family: jost;
+}
+
+.height {
+    height: 60px;
+}
+
+#para1 {
+    color: hsla(144, 100%, 30%, 1);
+}

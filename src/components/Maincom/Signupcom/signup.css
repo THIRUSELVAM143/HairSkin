@@ -1,0 +1,30 @@
+#h3 {
+    color: hsla(0, 0%, 0%, 1)
+}
+
+hr {
+    color: hsla(0, 0%, 65%, 1);
+}
+lable{
+    font-family: jost;
+}
+.custom-placeholder {
+    color: #555;
+    font-style: jost;
+    padding: 15px;
+  }
+
+  button{
+    background:hsla(0, 0%, 7%, 1);
+    color:    hsla(0, 0%, 100%, 1);
+    
+  }
+ 
+  #link{
+    color:  hsla(209, 83%, 43%, 1);
+  }
+
+
+  #lable{
+    margin-top: 20px;
+  }
