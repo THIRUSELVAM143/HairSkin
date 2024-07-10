@@ -7,7 +7,7 @@ import Store from '../storepage/store';
 import Periodic from '../Periodiccare/periodic';
 // import Hairskincare from '../Home/hairskincare';
 import Hairskincare from '../Hairskincare/banner';
-// import Login from '../Signupcom/login';
+import Login from '../Signupcom/login';
 import Signup from '../Signupcom/signup';
 import Enterotp from '../Signupcom/Enterotp';
 import Likepage from '../Likedpage/likepage';
@@ -22,11 +22,12 @@ export default function RoterNav() {
                     <Route path='/store' element={<Store></Store>}></Route>
                     <Route path='/Periodic' element={<Periodic/>}></Route>
                     <Route path='/hairskin' element={<Hairskincare/>}></Route>
-                    {/* <Route path='/login' element={<Login/>}></Route> */}
+                    <Route path='/login' element={<Login/>}></Route>
                     <Route path='/login' element={<Profile/>}></Route>
                     <Route path='/signup' element={<Signup/>}></Route>
                     <Route path='/backtolog' element={<Enterotp/>}></Route>
                     <Route path='/likedpage' element={<Likepage/>}></Route>
+                    {/* <Route path='/logout' element={<Signup/>}></Route> */}
                    
                 </Routes>
                 <Footer/>
